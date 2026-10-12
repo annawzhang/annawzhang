@@ -62,12 +62,12 @@
 
 ## 💼 实习经历
 
-| 时间 | 公司 · 方向 | 代表成果 | 详情 |
-|---|---|---|---|
-| 2026.07 – 至今 | **理想汽车** · 销售策略 | 门店级经营驾驶舱、覆盖 18 类流程的销售 AI 助手、7,000+ 条舆情洞察、50 家门店竞品商圈匹配 | [导览](https://annawzhang.github.io/portfolio/lixiang-overview.html) |
-| 2026.05 – 2026.07 | **腾讯** · 企业级 AI 工作台 | 统一工作台 0→1、12 个专业 Agent 知识闭环、未命中率 6% | [导览](https://annawzhang.github.io/portfolio/tencent-ssc-overview.html) |
-| 2026.02 – 2026.05 | **字节跳动** · Seed AI 数据产品 | Agent 数据采集全链路、八维可解释评估模型（20,121 条样本）、漏斗 AB 实验，业务效率 +40% | [导览](https://annawzhang.github.io/portfolio/byte-seed-overview.html) |
-| 2025.12 – 2026.02 | **TCL** · 企业系统产品 | 20+ 业务系统交互原型、OA 接口联调、SQL 调优 | [导览](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) |
+| 时间 | 公司 · 方向 | 代表成果 |
+|---|---|---|
+| 2026.07 – 至今 | [**理想汽车**](https://annawzhang.github.io/portfolio/lixiang-overview.html) · 销售策略 | 门店级经营驾驶舱、覆盖 18 类流程的销售 AI 助手、7,000+ 条舆情洞察、50 家门店竞品商圈匹配 |
+| 2026.05 – 2026.07 | [**腾讯**](https://annawzhang.github.io/portfolio/tencent-ssc-overview.html) · 企业级 AI 工作台 | 统一工作台 0→1、12 个专业 Agent 知识闭环、未命中率 6% |
+| 2026.02 – 2026.05 | [**字节跳动**](https://annawzhang.github.io/portfolio/byte-seed-overview.html) · Seed AI 数据产品 | Agent 数据采集全链路、八维可解释评估模型（20,121 条样本）、漏斗 AB 实验，业务效率 +40% |
+| 2025.12 – 2026.02 | [**TCL**](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) · 企业系统产品 | 20+ 业务系统交互原型、OA 接口联调、SQL 调优 |
 
 ## 🏆 比赛与开源
 
