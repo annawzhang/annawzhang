@@ -74,6 +74,7 @@
 | 腾讯 | [Cost Allocation Workbench](https://github.com/annawzhang/cost-allocation-workbench) · [演示](https://annawzhang.github.io/cost-allocation-workbench/) | 跨主体费用分摊：8 条校验规则 + 处理指引 + 分摊精确到分 | JavaScript |
 | 字节跳动 | [Explainable Talent Scoring](https://github.com/annawzhang/explainable-talent-scoring) · [报告](https://annawzhang.github.io/explainable-talent-scoring/) | 八维可解释评分与分层；NOT EXISTS 排他 AB 实验与索引调优 | Python · SQLite |
 | TCL | [HRIS Prototype](https://github.com/annawzhang/hris-prototype) · [演示](https://annawzhang.github.io/hris-prototype/?demo) | 可交互的入转调离多级审批、组织编制、OA 字段映射与重试 | JavaScript |
+| 学习 Greenhouse / Ashby | [Hiring Copilot](https://github.com/annawzhang/hiring-copilot) · [演示](https://annawzhang.github.io/hiring-copilot/) | 结构化招聘：评分卡初筛可追溯到简历原文、独立面试反馈、面试官校准与招聘分析 | JavaScript |
 
 **其他**：[HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor) —— 海外薪酬福利政策监控：多国官方 RSS 定时同步、关键词相关度打分、早报 / 周报推送与聊天机器人查询（Python · FastAPI · GitHub Actions）
 
