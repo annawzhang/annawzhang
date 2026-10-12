@@ -60,7 +60,22 @@
 </tr>
 </table>
 
-**更多项目**：[HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor) —— 海外薪酬福利政策监控：多国官方 RSS 定时同步、关键词相关度打分、早报 / 周报推送与聊天机器人查询（Python · FastAPI · GitHub Actions）
+## 🧪 可运行的项目复刻
+
+实习项目里的内部数据不能公开，所以我把核心设计各重做了一个公开版：**业务规则和产品逻辑与原工作一致，数据全部虚构**，每个都能在线打开、带测试。
+
+| 来源 | 项目 | 一句话 | 技术 |
+|---|---|---|---|
+| 理想汽车 | [Retail KPI Cockpit](https://github.com/annawzhang/retail-kpi-cockpit) · [演示](https://annawzhang.github.io/retail-kpi-cockpit/) | 门店经营诊断：同层健康分、预警归因、责任分派 | Python · TOML |
+| 理想汽车 | [VOC Insight Kit](https://github.com/annawzhang/voc-insight-kit) · [报告](https://annawzhang.github.io/voc-insight-kit/) | 社媒评论 → 点赞加权结论与心理价位 → 四步销售话术 + 禁止话术检查 | Python |
+| 理想汽车 | [Sales Ops Assistant](https://github.com/annawzhang/sales-ops-assistant) · [场景回放](https://annawzhang.github.io/sales-ops-assistant/) | 区域销售 AI 助手的确定性流水线：幂等锁、重试、时间护栏、群发授权、留痕 | Python |
+| 腾讯 | [Enterprise AI Console](https://github.com/annawzhang/enterprise-ai-console) · [演示](https://annawzhang.github.io/enterprise-ai-console/) | 企业级 AI 工作台：权限分级知识库、机器人看板、系统自检、工具嵌入 | JavaScript |
+| 腾讯 | [KB Gap Finder](https://github.com/annawzhang/kb-gap-finder) · [报告](https://annawzhang.github.io/kb-gap-finder/) | 员工服务机器人知识缺口：信号识别 → 聚类 → 补库建议，4 周未解决率 47% → 24% | Python · TF-IDF |
+| 腾讯 | [Cost Allocation Workbench](https://github.com/annawzhang/cost-allocation-workbench) · [演示](https://annawzhang.github.io/cost-allocation-workbench/) | 跨主体费用分摊：8 条校验规则 + 处理指引 + 分摊精确到分 | JavaScript |
+| 字节跳动 | [Explainable Talent Scoring](https://github.com/annawzhang/explainable-talent-scoring) · [报告](https://annawzhang.github.io/explainable-talent-scoring/) | 八维可解释评分与分层；NOT EXISTS 排他 AB 实验与索引调优 | Python · SQLite |
+| TCL | [HRIS Prototype](https://github.com/annawzhang/hris-prototype) · [演示](https://annawzhang.github.io/hris-prototype/?demo) | 可交互的入转调离多级审批、组织编制、OA 字段映射与重试 | JavaScript |
+
+**其他**：[HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor) —— 海外薪酬福利政策监控：多国官方 RSS 定时同步、关键词相关度打分、早报 / 周报推送与聊天机器人查询（Python · FastAPI · GitHub Actions）
 
 ## 💼 实习经历
 
