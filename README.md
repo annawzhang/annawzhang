@@ -60,6 +60,8 @@
 </tr>
 </table>
 
+**更多项目**：[HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor) —— 海外薪酬福利政策监控：多国官方 RSS 定时同步、关键词相关度打分、早报 / 周报推送与聊天机器人查询（Python · FastAPI · GitHub Actions）
+
 ## 💼 实习经历
 
 | 时间 | 公司 · 方向 | 代表成果 |
