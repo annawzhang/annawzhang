@@ -76,6 +76,8 @@
 | TCL | [HRIS Prototype](https://github.com/annawzhang/hris-prototype) · [演示](https://annawzhang.github.io/hris-prototype/?demo) | 可交互的入转调离多级审批、组织编制、OA 字段映射与重试 | JavaScript |
 | 学习 Greenhouse / Ashby | [Hiring Copilot](https://github.com/annawzhang/hiring-copilot) · [演示](https://annawzhang.github.io/hiring-copilot/) | 结构化招聘：评分卡初筛可追溯到简历原文、独立面试反馈、面试官校准与招聘分析 | JavaScript |
 | 方法开源 | [PM/HR Skills & Playbooks](https://github.com/annawzhang/pm-hr-skills) | Cursor Skill + SOP：材料审核规则、结构化招聘、触达审批、VOC 话术质检 | Markdown · Python |
+| 方法开源 | [People Stats Kit](https://github.com/annawzhang/people-stats-kit) · [报告](https://annawzhang.github.io/people-stats-kit/) | 人力量化：触达 AB z 检验、样本量、漏斗 Wilson CI、Kaplan–Meier、评分校准 | Python |
+| 理想汽车 | [VOC Voice Agent](https://github.com/annawzhang/voc-voice-agent) · [演示](https://annawzhang.github.io/voc-voice-agent/) | 用户原声 Agent：无引用不回答、价格关口、四步话术与禁止话术检查 | JavaScript |
 
 **其他**：[HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor)（[在线演示](https://annawzhang.github.io/hr-policy-monitor/)）—— 海外薪酬福利政策监控：多国官方 RSS 定时同步、关键词相关度打分、早报 / 周报推送与聊天机器人查询（Python · FastAPI · GitHub Actions）
 
