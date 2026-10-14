@@ -80,7 +80,7 @@
 | 方法开源 | [People Stats Kit](https://github.com/annawzhang/people-stats-kit) · [报告](https://annawzhang.github.io/people-stats-kit/) | 人力量化：触达 AB z 检验、样本量、漏斗 Wilson CI、Kaplan–Meier、评分校准 | Python |
 | 理想汽车 | [VOC Voice Agent](https://github.com/annawzhang/voc-voice-agent) · [演示](https://annawzhang.github.io/voc-voice-agent/) | 用户原声 Agent：无引用不回答、价格关口、四步话术与禁止话术检查 | JavaScript |
 | 方法开源 | [People Product Handbook](https://github.com/annawzhang/people-product-handbook) · [手册](https://annawzhang.github.io/people-product-handbook/) | 手册：架构/API/Follow-up/技术栈/BP/Demo + 如何使用我的 GitHub | HTML · Mermaid |
-| 方法开源 | [BizCase Strategy Lab](https://github.com/annawzhang/bizcase-strategy-lab) · [报告](https://annawzhang.github.io/bizcase-strategy-lab/) | 商赛四件套：TAM/SAM/SOM、竞品告警、单位经济、情景推演（苏州零售虚构案） | Python · TOML |
+| 方法开源 | [BizCase Strategy Lab](https://github.com/annawzhang/bizcase-strategy-lab) · [报告](https://annawzhang.github.io/bizcase-strategy-lab/) | 商赛工具：TAM/SAM/SOM、竞品告警、单位经济、情景、波特五力、商业监控（苏州零售虚构案） | Python · TOML |
 
 **其他**：[HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor)（[在线演示](https://annawzhang.github.io/hr-policy-monitor/)）—— 海外薪酬福利政策监控：多国官方 RSS 定时同步、关键词相关度打分、早报 / 周报推送与聊天机器人查询（Python · FastAPI · GitHub Actions）
 
