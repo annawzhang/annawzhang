@@ -43,11 +43,11 @@
 
 | 若您关心 | 建议先看 | 可继续看 |
 |---|---|---|
-| **人力 / HR 系统 / 工作台** | [Handbook](https://annawzhang.github.io/people-product-handbook/) · [HRIS](https://annawzhang.github.io/hris-prototype/?demo) | [Hiring Copilot](https://annawzhang.github.io/hiring-copilot/) · [Hiring Agent](https://annawzhang.github.io/hiring-agent/) |
-| **智能体 / 企业 AI** | [98008 Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html) · [VOC Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/11-voc-agent.html) | [VOC Demo](https://annawzhang.github.io/voc-voice-agent/) · [减幻觉 Skill](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/citation-grounding) · [安全治理 Skill](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/content-safety-rails) |
-| **数据产品 / 可解释模型** | [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) · [Stats Kit](https://annawzhang.github.io/people-stats-kit/) | [VOC Insight](https://annawzhang.github.io/voc-insight-kit/) · [作品集 · 字节](https://annawzhang.github.io/portfolio/byte-seed-overview.html) |
-| **销售策略 / 经营** | [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) · [作品集 · 理想](https://annawzhang.github.io/portfolio/lixiang-overview.html) | [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/) · VOC |
-| **商业策略 / 商赛** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) | [Handbook §09](https://annawzhang.github.io/people-product-handbook/sections/09-bizcase.html) |
+| **理想 · 销售/数据策略** | [Handbook · 理想](https://annawzhang.github.io/people-product-handbook/sections/co-lixiang.html) · [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) | [VOC Agent](https://annawzhang.github.io/voc-voice-agent/) · [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/) |
+| **腾讯 · SSC / 企业 AI** | [Handbook · 腾讯](https://annawzhang.github.io/people-product-handbook/sections/co-tencent.html) · [98008](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html) | [Console](https://annawzhang.github.io/enterprise-ai-console/) · [Gap](https://annawzhang.github.io/kb-gap-finder/) |
+| **字节 · 招聘数据产品** | [Handbook · 字节](https://annawzhang.github.io/people-product-handbook/sections/co-byte.html) · [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) | [Stats Kit](https://annawzhang.github.io/people-stats-kit/) · [作品集 · 字节](https://annawzhang.github.io/portfolio/byte-seed-overview.html) |
+| **TCL · HRIS** | [Handbook · TCL](https://annawzhang.github.io/people-product-handbook/sections/co-tcl.html) · [HRIS](https://annawzhang.github.io/hris-prototype/?demo) | [作品集 · TCL](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) |
+| **竞赛 / 方法附录** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) · [附录](https://annawzhang.github.io/people-product-handbook/sections/co-appendix.html) | [Skills](https://github.com/annawzhang/pm-hr-skills) · Hiring Agent（学习复刻） |
 
 通用 10 分钟：**[作品集](https://annawzhang.github.io/portfolio/) → [Handbook](https://annawzhang.github.io/people-product-handbook/) → 一个 Agent Demo 或 Talent Scoring → Retail KPI**。
 
@@ -67,9 +67,9 @@
 <td width="50%" valign="top">
 <a href="https://annawzhang.github.io/people-product-handbook/"><img src="https://opengraph.githubassets.com/1/annawzhang/people-product-handbook" alt="Handbook"/></a>
 
-**[People Product Handbook](https://github.com/annawzhang/people-product-handbook)** · 人力 / Agent 开源手册
+**[People Product Handbook](https://github.com/annawzhang/people-product-handbook)** · 按四段实习归类
 
-招聘 · 人才评分 · 人力量化 · VOC · 触达护栏 · HRIS · Skills · 商赛。每页：架构 / API / Follow-up / Demo。
+导航对齐简历：**理想**（VOC/触达/经营）· **字节**（人才量化/AB）· **腾讯**（SSC/98008）· **TCL**（HRIS）；商赛/Skills/学习复刻进附录。
 
 [在线阅读](https://annawzhang.github.io/people-product-handbook/)
 </td>
