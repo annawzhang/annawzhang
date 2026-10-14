@@ -2,6 +2,11 @@
 
 # 你好，我是张文婧（Anna）👋
 
+> **⚠️ 数据脱敏声明（请先读）**  
+> 本账号下所有公开仓库与 GitHub Pages **均为面试用复刻**：业务规则可演示，**数据全部虚构或已脱敏**。  
+> **不含**真实员工/候选人信息、门店明细、薪酬福利原文、内网 URL、手机号、同事实名、未公开密钥。  
+> 实习经历中的公司名与方向可写；**内部系统名、问询原文、经营明细以公开叙事下的脱敏/泛化表述为准**，不代表可对外提供原始数据或代码权限。
+
 **AI / 数据产品 · 企业工作台与智能体 · 销售策略与经营工具**  
 把复杂业务拆成可度量指标、可解释规则，和一线真正会用的产品
 
@@ -9,6 +14,7 @@
 
 *AI & Data Product · 统计学本科 · 金融数学硕士 · 理想汽车 / 腾讯 / 字节跳动 / TCL*
 
+[![数据已脱敏](https://img.shields.io/badge/公开仓-虚构数据·已脱敏-B45309?style=for-the-badge)](#)
 [![作品集](https://img.shields.io/badge/作品集-四段实习-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://annawzhang.github.io/portfolio/)
 [![手册](https://img.shields.io/badge/People_Handbook-人力·Agent-4F46E5?style=for-the-badge&logo=githubpages&logoColor=white)](https://annawzhang.github.io/people-product-handbook/)
 [![经营舱](https://img.shields.io/badge/Retail_KPI-经营诊断-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white)](https://annawzhang.github.io/retail-kpi-cockpit/)
@@ -28,7 +34,7 @@
 
 ## 🧭 给面试官的导览（按兴趣 10 分钟）
 
-公开仓均为**虚构数据复刻**，可点开演示与测试。按您关心的方向选一条即可：
+以下链接均可在线打开；**打开即见虚构/脱敏演示数据**，不会接触企业原始库。按您关心的方向选一条即可：
 
 | 若您关心 | 建议先看 | 可继续看 |
 |---|---|---|
@@ -107,7 +113,7 @@
 
 ## 🧪 可运行的项目复刻
 
-内部数据不公开；公开复刻**逻辑一致、数据虚构**，均可在线打开并带测试。
+**再次强调：内部生产数据与私有仓不公开。** 下表均为脱敏复刻——逻辑可讲、数字可点，但**不是**公司真实库表或线上配置。
 
 | 来源 / 方向 | 项目 | 一句话 |
 |---|---|---|
