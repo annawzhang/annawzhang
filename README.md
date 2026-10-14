@@ -136,13 +136,15 @@
 
 ### 零密钥开源 Skills（欢迎直接用）
 
-| Skill | 做什么 | 链接 |
-|---|---|---|
-| **减幻觉 · 引用落地** | 无引用不下结论；检索空则拒答 | [citation-grounding](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/citation-grounding) |
-| **安全治理 · 内容护栏** | P0–P3 分级；输入/输出双侧检查（无真实词库/无密钥） | [content-safety-rails](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/content-safety-rails) |
+| Skill | 层 | 做什么 | 链接 |
+|---|---|---|---|
+| **减幻觉 · 引用落地** | L3 | 无引用不下结论 | [citation-grounding](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/citation-grounding) |
+| **安全治理 · 内容护栏** | L4 | P0–P3 双侧检查 | [content-safety-rails](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/content-safety-rails) |
+| **工具白名单** | L1 | 越权工具调用拒绝 | [tool-whitelist](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/tool-whitelist) |
+| **发布脱敏检查** | L4 | 公开前扫手机号/密钥形态 | [publish-desensitize](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/publish-desensitize) |
+| **护栏评测** | L4 | 该拒就拒的最小用例集 | [agent-eval-rails](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/agent-eval-rails) |
 
-更多招聘 / 触达 / VOC Playbook 见 [pm-hr-skills](https://github.com/annawzhang/pm-hr-skills) · [手册 §07](https://annawzhang.github.io/people-product-handbook/sections/07-skills.html)
-
+分层地图：[手册 §12](https://annawzhang.github.io/people-product-handbook/sections/12-layer-build.html) · 仓库 [pm-hr-skills](https://github.com/annawzhang/pm-hr-skills)
 **私有仓（不对外开链）**：企业底稿与带抓取/部署密钥的数据包（`ssc-*` / `fpp-*` / payroll / policy-monitor 等）为 **Private**；面试只看公开 Demo 与上述 Skills。
 
 ## 💼 实习经历
