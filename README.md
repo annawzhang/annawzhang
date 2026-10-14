@@ -26,17 +26,19 @@
 | **能做什么** | 工作台 0→1 · Agent / 知识闭环 · 可解释评分与 AB · 经营诊断与 VOC · 商赛方法工具化 |
 | **竞赛** | FlagOS 全球 Top 2 · 中国国际大学生创新大赛 **省金 / 国铜** · 全国商业精英挑战赛 **全国三等奖** |
 
-## 🧭 求职怎么逛 GitHub（按方向）
+## 🧭 给面试官的导览（按兴趣 10 分钟）
 
-| 你面的方向 | 先打开 | 再深挖 |
+公开仓均为**虚构数据复刻**，可点开演示与测试。按您关心的方向选一条即可：
+
+| 若您关心 | 建议先看 | 可继续看 |
 |---|---|---|
 | **人力 / HR 系统 / 工作台** | [Handbook](https://annawzhang.github.io/people-product-handbook/) · [HRIS](https://annawzhang.github.io/hris-prototype/?demo) | [Hiring Copilot](https://annawzhang.github.io/hiring-copilot/) · [Hiring Agent](https://annawzhang.github.io/hiring-agent/) |
-| **智能体 / 企业 AI** | 两套独立全栈：[98008 Agent](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html) · [VOC Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/11-voc-agent.html) | [Console](https://annawzhang.github.io/enterprise-ai-console/) · [VOC Demo](https://annawzhang.github.io/voc-voice-agent/) · [Hiring Agent](https://annawzhang.github.io/hiring-agent/) · [Gap Finder](https://annawzhang.github.io/kb-gap-finder/) |
-| **数据产品 / 可解释模型** | [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) · [Stats Kit](https://annawzhang.github.io/people-stats-kit/) | [VOC Insight](https://annawzhang.github.io/voc-insight-kit/) · 作品集字节页 |
-| **销售策略 / 经营** | [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) · 作品集理想页 | [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/) · VOC |
-| **商业策略 / 商赛** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) | Handbook §09 |
+| **智能体 / 企业 AI** | [98008 Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html) · [VOC Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/11-voc-agent.html) | [Console](https://annawzhang.github.io/enterprise-ai-console/) · [VOC Demo](https://annawzhang.github.io/voc-voice-agent/) · [Gap Finder](https://annawzhang.github.io/kb-gap-finder/) |
+| **数据产品 / 可解释模型** | [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) · [Stats Kit](https://annawzhang.github.io/people-stats-kit/) | [VOC Insight](https://annawzhang.github.io/voc-insight-kit/) · [作品集 · 字节](https://annawzhang.github.io/portfolio/byte-seed-overview.html) |
+| **销售策略 / 经营** | [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) · [作品集 · 理想](https://annawzhang.github.io/portfolio/lixiang-overview.html) | [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/) · VOC |
+| **商业策略 / 商赛** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) | [Handbook §09](https://annawzhang.github.io/people-product-handbook/sections/09-bizcase.html) |
 
-10 分钟默认路线：**作品集总览 → Handbook → Hiring Agent 或 Talent Scoring → Retail KPI**（按 JD 换轨）。
+通用 10 分钟：**[作品集](https://annawzhang.github.io/portfolio/) → [Handbook](https://annawzhang.github.io/people-product-handbook/) → 一个 Agent Demo 或 Talent Scoring → Retail KPI**。
 
 ## ✨ 精选项目
 
