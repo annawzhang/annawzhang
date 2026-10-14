@@ -2,107 +2,129 @@
 
 # 你好，我是张文婧（Anna）👋
 
-**AI 产品 / 数据产品 · 把复杂业务拆成可度量的指标、可解释的规则，和一线真正会用的工具**
+**商业策略 × 数据产品 · 用可审计假设、可解释模型和一线工具，把市场、竞品与经营动作跑通**
 
-*AI & Data Product · CUHK-Shenzhen MSc Financial Mathematics · Li Auto / Tencent / ByteDance / TCL*
+*Business Strategy & Data Product · 统计学本 + 金融数学硕 · 理想汽车销售策略 / 腾讯 / 字节 / TCL*
 
-[![作品集](https://img.shields.io/badge/作品集-在线浏览-4F46E5?style=for-the-badge&logo=githubpages&logoColor=white)](https://annawzhang.github.io/portfolio/)
-[![Demo](https://img.shields.io/badge/经营驾驶舱-在线演示-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white)](https://annawzhang.github.io/retail-kpi-cockpit/)
+[![作品集](https://img.shields.io/badge/作品集-在线浏览-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://annawzhang.github.io/portfolio/)
+[![商赛 Lab](https://img.shields.io/badge/商赛策略-BizCase_Lab-B45309?style=for-the-badge&logo=googlechrome&logoColor=white)](https://annawzhang.github.io/bizcase-strategy-lab/)
+[![经营驾驶舱](https://img.shields.io/badge/经营诊断-Retail_KPI-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white)](https://annawzhang.github.io/retail-kpi-cockpit/)
 [![Email](https://img.shields.io/badge/Email-联系我-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:225010030@link.cuhk.edu.cn)
 
 </div>
 
 ## 🙋‍♀️ 关于我
 
-- 🎓 香港中文大学（深圳）金融数学硕士 · 苏州大学统计学本科
-- 💼 四段实习：**理想汽车** 销售策略 · **腾讯** 企业级 AI 工作台 · **字节跳动** Seed AI 数据产品 · **TCL** 企业系统产品
-- 🏆 FlagOS 全球 AI 挑战赛 **全球 Top 2**（队长）
-- 🛠 擅长 0→1 产品搭建、数据看板与诊断引擎、Agent 编排与跨团队推进；可用英文工作沟通
+| | |
+|---|---|
+| **硕士** | 香港中文大学（深圳）· **金融数学** MSc |
+| **本科** | 苏州大学 · **统计学** |
+| **实习** | **理想汽车** 销售策略 · **腾讯** 企业级 AI 工作台 · **字节跳动** Seed AI 数据产品 · **TCL** 企业系统产品 |
+| **方法** | 市场测算 / 波特五力 / 单位经济 / 情景与监控 · 指标体系与诊断 · AB / 校准 · VOC 原声护栏 · Agent 编排 |
+| **竞赛** | FlagOS 全球 Top 2 · 中国国际大学生创新大赛 **江苏省金奖 / 国家级铜奖** · 全国商业精英挑战赛 **全国三等奖** |
+
+一句话：本科统计给「怎么量、怎么检验」，硕士金融数学给「怎么定价与情景」，实习把它们落成**销售策略与经营工具**——假设可审计、结论可追溯、动作可派发。
+
+## 🧭 商业策略怎么体现在 GitHub
+
+打开顺序建议（策略感最强的三条线）：
+
+1. **[BizCase Strategy Lab](https://annawzhang.github.io/bizcase-strategy-lab/)** — 商赛 SOP 简介 · 架构映射 · TAM/SAM/SOM · 竞品 · UE · 情景 · 波特五力 · 商业监控  
+2. **[Retail KPI Cockpit](https://annawzhang.github.io/retail-kpi-cockpit/)** — 门店经营诊断：先管谁、为什么、找谁管  
+3. **[People Product Handbook](https://annawzhang.github.io/people-product-handbook/)** — 人力/产品方法手册（含商赛 §09）
+
+| 策略问题 | 对应公开仓 |
+|---|---|
+| 市场多大、能拿多少？ | BizCase · 市场测算 |
+| 行业结构与差异化？ | BizCase · 波特五力 + 竞品雷达 |
+| 单均能不能打平？ | BizCase · 单位经济 + 情景 |
+| 日常怎么盯、红灯谁改？ | BizCase · 商业监控 · Retail KPI |
+| 用户原声怎么进策略？ | VOC Insight / Voice Agent |
 
 ## ✨ 精选项目
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://annawzhang.github.io/retail-kpi-cockpit/"><img src="https://raw.githubusercontent.com/annawzhang/retail-kpi-cockpit/main/docs/screenshot-overview.png" alt="Retail KPI Cockpit"/></a>
+<a href="https://annawzhang.github.io/bizcase-strategy-lab/"><img src="https://opengraph.githubassets.com/1/annawzhang/bizcase-strategy-lab" alt="BizCase Strategy Lab"/></a>
 
-**[Retail KPI Cockpit](https://github.com/annawzhang/retail-kpi-cockpit)** · 零售门店经营诊断驾驶舱
+**[BizCase Strategy Lab](https://github.com/annawzhang/bizcase-strategy-lab)** · 商赛 / 商业策略工作台
 
-把门店日报变成「今天先管谁、为什么、找谁管」：配置化指标口径、同层健康分、预警归因与责任分派、自动文字结论。零依赖 Python，演示数据。
+对齐全国高校商业精英挑战赛公开 SOP：赛程与贡献 + 可跑的市场测算、竞品告警、单位经济、情景、五力与监控。演示案：苏州零售「苏里优选」（虚构）。
 
-[在线演示](https://annawzhang.github.io/retail-kpi-cockpit/) · [代码](https://github.com/annawzhang/retail-kpi-cockpit)
+[在线报告](https://annawzhang.github.io/bizcase-strategy-lab/) · [代码](https://github.com/annawzhang/bizcase-strategy-lab)
 </td>
 <td width="50%" valign="top">
-<a href="https://annawzhang.github.io/portfolio/"><img src="assets/index.png" alt="面试作品集"/></a>
+<a href="https://annawzhang.github.io/retail-kpi-cockpit/"><img src="https://raw.githubusercontent.com/annawzhang/retail-kpi-cockpit/main/docs/screenshot-overview.png" alt="Retail KPI Cockpit"/></a>
 
-**[面试作品集](https://github.com/annawzhang/portfolio)** · 四段实习项目导览
+**[Retail KPI Cockpit](https://github.com/annawzhang/retail-kpi-cockpit)** · 零售门店经营诊断
 
-每个项目按「背景 → 方案 → 架构 → 结果」拆成独立页面，含经营驾驶舱、诊断模型、舆情洞察、多 Agent 知识闭环等。数据已脱敏。
+把门店日报变成「今天先管谁、为什么、找谁管」：配置化口径、同层健康分、预警归因与责任分派。零依赖 Python，演示数据。
 
-[在线浏览](https://annawzhang.github.io/portfolio/) · [代码](https://github.com/annawzhang/portfolio)
+[在线演示](https://annawzhang.github.io/retail-kpi-cockpit/) · [代码](https://github.com/annawzhang/retail-kpi-cockpit)
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://annawzhang.github.io/portfolio/lixiang-diagnosis-star.html"><img src="assets/lixiang-diagnosis-star.png" alt="意向订单诊断模型"/></a>
+<a href="https://annawzhang.github.io/portfolio/"><img src="assets/index.png" alt="面试作品集"/></a>
 
-**[意向订单诊断模型](https://annawzhang.github.io/portfolio/lixiang-diagnosis-star.html)** · 理想汽车
+**[面试作品集](https://github.com/annawzhang/portfolio)** · 四段实习叙事
 
-近 90 家门店数据统一成 680 × 80 宽表，8 个诊断场景一键跑完，归因精确到漏斗节点，每月省时约 98.5 小时。
+背景 → 方案 → 架构 → 结果；含经营驾驶舱、诊断模型、舆情洞察、多 Agent 知识闭环。数据已脱敏。
+
+[在线浏览](https://annawzhang.github.io/portfolio/)
 </td>
 <td width="50%" valign="top">
-<a href="https://annawzhang.github.io/portfolio/tencent-ssc-overview.html"><img src="assets/tencent-ssc-overview.png" alt="企业级 AI 工作台"/></a>
+<a href="https://annawzhang.github.io/portfolio/lixiang-diagnosis-star.html"><img src="assets/lixiang-diagnosis-star.png" alt="意向订单诊断模型"/></a>
 
-**[企业级 AI 工作台](https://annawzhang.github.io/portfolio/tencent-ssc-overview.html)** · 腾讯
+**[意向订单诊断模型](https://annawzhang.github.io/portfolio/lixiang-diagnosis-star.html)** · 理想汽车 · 销售策略
 
-统一工作台 0→1；建库 → 用库 → 补库的多 Agent 知识闭环，知识库未命中率降至 6%，区域工具耗时 40 min → 3 min。
+近 90 家门店统一宽表，8 个诊断场景一键跑完，归因到漏斗节点，每月省时约 98.5 小时。
 </td>
 </tr>
 </table>
 
 ## 🧪 可运行的项目复刻
 
-实习项目里的内部数据不能公开，所以我把核心设计各重做了一个公开版：**业务规则和产品逻辑与原工作一致，数据全部虚构**，每个都能在线打开、带测试。
+内部数据不公开；公开复刻**逻辑一致、数据虚构**，均可在线打开并带测试。
 
-| 来源 | 项目 | 一句话 | 技术 |
-|---|---|---|---|
-| 理想汽车 | [Retail KPI Cockpit](https://github.com/annawzhang/retail-kpi-cockpit) · [演示](https://annawzhang.github.io/retail-kpi-cockpit/) | 门店经营诊断：同层健康分、预警归因、责任分派 | Python · TOML |
-| 理想汽车 | [VOC Insight Kit](https://github.com/annawzhang/voc-insight-kit) · [报告](https://annawzhang.github.io/voc-insight-kit/) | 社媒评论 → 点赞加权结论与心理价位 → 四步销售话术 + 禁止话术检查 | Python |
-| 理想汽车 | [Sales Ops Assistant](https://github.com/annawzhang/sales-ops-assistant) · [场景回放](https://annawzhang.github.io/sales-ops-assistant/) | 区域销售 AI 助手的确定性流水线：幂等锁、重试、时间护栏、群发授权、留痕 | Python |
-| 腾讯 | [Enterprise AI Console](https://github.com/annawzhang/enterprise-ai-console) · [演示](https://annawzhang.github.io/enterprise-ai-console/) | 企业级 AI 工作台：权限分级知识库、机器人看板、系统自检、工具嵌入 | JavaScript |
-| 腾讯 | [KB Gap Finder](https://github.com/annawzhang/kb-gap-finder) · [报告](https://annawzhang.github.io/kb-gap-finder/) | 员工服务机器人知识缺口：信号识别 → 聚类 → 补库建议，4 周未解决率 47% → 24% | Python · TF-IDF |
-| 腾讯 | [Cost Allocation Workbench](https://github.com/annawzhang/cost-allocation-workbench) · [演示](https://annawzhang.github.io/cost-allocation-workbench/) | 跨主体费用分摊：8 条校验规则 + 处理指引 + 分摊精确到分 | JavaScript |
-| 字节跳动 | [Explainable Talent Scoring](https://github.com/annawzhang/explainable-talent-scoring) · [报告](https://annawzhang.github.io/explainable-talent-scoring/) | 八维可解释评分与分层；NOT EXISTS 排他 AB 实验与索引调优 | Python · SQLite |
-| TCL | [HRIS Prototype](https://github.com/annawzhang/hris-prototype) · [演示](https://annawzhang.github.io/hris-prototype/?demo) | 可交互的入转调离多级审批、组织编制、OA 字段映射与重试 | JavaScript |
-| 学习 Greenhouse / Ashby | [Hiring Copilot](https://github.com/annawzhang/hiring-copilot) · [演示](https://annawzhang.github.io/hiring-copilot/) | 结构化招聘：评分卡初筛可追溯到简历原文、独立面试反馈、面试官校准与招聘分析 | JavaScript |
-| 学习 Greenhouse / Ashby | [Hiring Agent](https://github.com/annawzhang/hiring-agent) · [演示](https://annawzhang.github.io/hiring-agent/) | 招聘运营 Agent：白名单调用评分卡引擎，违规推进会被规则拒绝 | JavaScript |
-| 方法开源 | [PM/HR Skills & Playbooks](https://github.com/annawzhang/pm-hr-skills) | Cursor Skill + SOP：材料审核规则、结构化招聘、触达审批、VOC 话术质检 | Markdown · Python |
-| 方法开源 | [People Stats Kit](https://github.com/annawzhang/people-stats-kit) · [报告](https://annawzhang.github.io/people-stats-kit/) | 人力量化：触达 AB z 检验、样本量、漏斗 Wilson CI、Kaplan–Meier、评分校准 | Python |
-| 理想汽车 | [VOC Voice Agent](https://github.com/annawzhang/voc-voice-agent) · [演示](https://annawzhang.github.io/voc-voice-agent/) | 用户原声 Agent：无引用不回答、价格关口、四步话术与禁止话术检查 | JavaScript |
-| 方法开源 | [People Product Handbook](https://github.com/annawzhang/people-product-handbook) · [手册](https://annawzhang.github.io/people-product-handbook/) | 手册：架构/API/Follow-up/技术栈/BP/Demo + 如何使用我的 GitHub | HTML · Mermaid |
-| 方法开源 | [BizCase Strategy Lab](https://github.com/annawzhang/bizcase-strategy-lab) · [报告](https://annawzhang.github.io/bizcase-strategy-lab/) | 商赛工具：TAM/SAM/SOM、竞品告警、单位经济、情景、波特五力、商业监控（苏州零售虚构案） | Python · TOML |
+| 类型 | 项目 | 一句话 |
+|---|---|---|
+| 商业策略 | [BizCase Strategy Lab](https://github.com/annawzhang/bizcase-strategy-lab) · [报告](https://annawzhang.github.io/bizcase-strategy-lab/) | 商赛 SOP + TAM/竞品/UE/情景/五力/监控 |
+| 经营诊断 | [Retail KPI Cockpit](https://github.com/annawzhang/retail-kpi-cockpit) · [演示](https://annawzhang.github.io/retail-kpi-cockpit/) | 同层健康分、预警归因、责任分派 |
+| 用户原声 | [VOC Insight](https://github.com/annawzhang/voc-insight-kit) / [Voice Agent](https://github.com/annawzhang/voc-voice-agent) | 点赞加权结论 · 无引用不回答 · 四步话术 |
+| 销售流水线 | [Sales Ops Assistant](https://github.com/annawzhang/sales-ops-assistant) | 幂等锁、时间窗、群发授权、留痕 |
+| 企业 AI | [Enterprise AI Console](https://github.com/annawzhang/enterprise-ai-console) · [KB Gap Finder](https://github.com/annawzhang/kb-gap-finder) | 工作台 0→1 · 补库闭环 |
+| 人才 / HR | [Talent Scoring](https://github.com/annawzhang/explainable-talent-scoring) · [Hiring Agent](https://github.com/annawzhang/hiring-agent) · [HRIS](https://github.com/annawzhang/hris-prototype) | 可解释评分 · 结构化招聘 · 入转调离 |
+| 方法手册 | [People Product Handbook](https://github.com/annawzhang/people-product-handbook) · [Stats Kit](https://github.com/annawzhang/people-stats-kit) · [Skills](https://github.com/annawzhang/pm-hr-skills) | 架构/API/Follow-up · 统计工具箱 · SOP |
 
-**其他**：[HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor)（[在线演示](https://annawzhang.github.io/hr-policy-monitor/)）—— 海外薪酬福利政策监控：多国官方 RSS 定时同步、关键词相关度打分、早报 / 周报推送与聊天机器人查询（Python · FastAPI · GitHub Actions）
+**其他**：[Cost Allocation](https://github.com/annawzhang/cost-allocation-workbench) · [HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor)
 
 ## 💼 实习经历
 
 | 时间 | 公司 · 方向 | 代表成果 |
 |---|---|---|
-| 2026.07 – 至今 | [**理想汽车**](https://annawzhang.github.io/portfolio/lixiang-overview.html) · 销售策略 | 门店级经营驾驶舱、覆盖 18 类流程的销售 AI 助手、7,000+ 条舆情洞察、50 家门店竞品商圈匹配 |
+| 2026.07 – 至今 | [**理想汽车**](https://annawzhang.github.io/portfolio/lixiang-overview.html) · **销售策略** | 门店经营驾驶舱、18 类流程销售 AI 助手、7,000+ 舆情洞察、50 家门店竞品商圈匹配 |
 | 2026.05 – 2026.07 | [**腾讯**](https://annawzhang.github.io/portfolio/tencent-ssc-overview.html) · 企业级 AI 工作台 | 统一工作台 0→1、12 个专业 Agent 知识闭环、未命中率 6% |
-| 2026.02 – 2026.05 | [**字节跳动**](https://annawzhang.github.io/portfolio/byte-seed-overview.html) · Seed AI 数据产品 | Agent 数据采集全链路、八维可解释评估模型（20,121 条样本）、漏斗 AB 实验，业务效率 +40% |
-| 2025.12 – 2026.02 | [**TCL**](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) · 企业系统产品 | 20+ 业务系统交互原型、OA 接口联调、SQL 调优 |
+| 2026.02 – 2026.05 | [**字节跳动**](https://annawzhang.github.io/portfolio/byte-seed-overview.html) · Seed AI 数据产品 | Agent 采集全链路、八维可解释评估（20,121 样本）、漏斗 AB，效率 +40% |
+| 2025.12 – 2026.02 | [**TCL**](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) · 企业系统产品 | 20+ 业务系统原型、OA 联调、SQL 调优 |
 
-## 🏆 比赛与开源
+## 🏆 比赛与商业策略相关经历
 
-**FlagOS 全球 AI 挑战赛 · OpenSeek 长上下文 ICL 标注赛道 · 全球 Top 2** —— TrialBlazers 队长
+**全国商业精英挑战赛 · 品牌策划赛道 · 全国三等奖（宋锦）**
 
-- 负责整体方案与全流程实现，主攻 Task 8
-- 排行榜 **84.77** 分；Task 8 从 142/166 提升到 **166/166**；规则类任务提升 **82%+**
-- 30K 长上下文 ICL、MMR 去冗余检索、标签均衡采样、生成 → 校验 → 修复（Pass@k）多轮流程
-- [查看比赛提交（OpenSeek PR #223）→](https://github.com/FlagAI-Open/OpenSeek/pull/223)
+- 方法：PEST + 波特五力 + SPSS（LDA + SEM）量化传播路径  
+- 角色：数据分析与量化建模；现状分析 / 竞争结构 / 财务与风险相关测算  
+- 公开沉淀：[BizCase Strategy Lab](https://annawzhang.github.io/bizcase-strategy-lab/)（虚构行业演示，不上传真实 BP）
 
-其他奖项：中国国际大学生创新大赛 江苏省金奖 / 国家级铜奖 · 全国商业精英挑战赛 全国三等奖
+**中国国际大学生创新大赛 · WaterNa · 江苏省金奖 / 国家级铜奖**
+
+- 项目：硅基光伏耦合发电；多源数据 pipeline + 特征工程支撑商业化测算  
+- 赛制印象：校赛 → 省赛 → 国赛；商业计划书 + 路演答辩为主线
+
+**FlagOS 全球 AI 挑战赛 · OpenSeek · 全球 Top 2**（TrialBlazers 队长）
+
+- 排行榜 **84.77**；Task 8 **166/166**；[OpenSeek PR #223](https://github.com/FlagAI-Open/OpenSeek/pull/223)
 
 ## 🧰 技能
 
@@ -114,11 +136,11 @@
 ![Axure](https://img.shields.io/badge/Axure-0A66C2?style=flat-square)
 ![Xmind](https://img.shields.io/badge/Xmind-F05A28?style=flat-square)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![RPA](https://img.shields.io/badge/影刀_RPA-FF6A00?style=flat-square)
 
-产品方法：PRD · 指标体系 · AB 实验设计 · 用户声音（VOC）分析 · Agent 编排
+策略与产品方法：市场测算 · 波特五力 · 单位经济 · 情景/监控 · PRD · 指标体系 · AB 实验 · VOC · Agent 编排
 
 ## 📫 联系
 
-- Email：225010030@link.cuhk.edu.cn
-- 作品集：<https://annawzhang.github.io/portfolio/>
+- Email：225010030@link.cuhk.edu.cn  
+- 作品集：<https://annawzhang.github.io/portfolio/>  
+- 商赛 Lab：<https://annawzhang.github.io/bizcase-strategy-lab/>
