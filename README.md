@@ -40,7 +40,7 @@
 | 若您关心 | 建议先看 | 可继续看 |
 |---|---|---|
 | **人力 / HR 系统 / 工作台** | [Handbook](https://annawzhang.github.io/people-product-handbook/) · [HRIS](https://annawzhang.github.io/hris-prototype/?demo) | [Hiring Copilot](https://annawzhang.github.io/hiring-copilot/) · [Hiring Agent](https://annawzhang.github.io/hiring-agent/) |
-| **智能体 / 企业 AI** | [98008 Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html) · [VOC Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/11-voc-agent.html) | [Console](https://annawzhang.github.io/enterprise-ai-console/) · [VOC Demo](https://annawzhang.github.io/voc-voice-agent/) · [Gap Finder](https://annawzhang.github.io/kb-gap-finder/) |
+| **智能体 / 企业 AI** | [98008 Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html) · [VOC Agent 架构](https://annawzhang.github.io/people-product-handbook/sections/11-voc-agent.html) | [VOC Demo](https://annawzhang.github.io/voc-voice-agent/) · [减幻觉 Skill](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/citation-grounding) · [安全治理 Skill](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/content-safety-rails) |
 | **数据产品 / 可解释模型** | [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) · [Stats Kit](https://annawzhang.github.io/people-stats-kit/) | [VOC Insight](https://annawzhang.github.io/voc-insight-kit/) · [作品集 · 字节](https://annawzhang.github.io/portfolio/byte-seed-overview.html) |
 | **销售策略 / 经营** | [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) · [作品集 · 理想](https://annawzhang.github.io/portfolio/lixiang-overview.html) | [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/) · VOC |
 | **商业策略 / 商赛** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) | [Handbook §09](https://annawzhang.github.io/people-product-handbook/sections/09-bizcase.html) |
@@ -130,7 +130,16 @@
 | 方法开源 | [Handbook](https://github.com/annawzhang/people-product-handbook) · [Stats Kit](https://github.com/annawzhang/people-stats-kit) · [Skills](https://github.com/annawzhang/pm-hr-skills) | 手册 / 统计工具箱 / SOP |
 | 商赛方法 | [BizCase Strategy Lab](https://github.com/annawzhang/bizcase-strategy-lab) | TAM/竞品/UE/五力/监控（虚构案） |
 
-**私有仓（不对外开链）**：企业侧工作底稿与带真实抓取/部署配置的数据包（如 `ssc-*` / `fpp-*` / payroll / policy-monitor 等）已设为 **Private**，面试只讲公开复刻与架构页。
+### 零密钥开源 Skills（欢迎直接用）
+
+| Skill | 做什么 | 链接 |
+|---|---|---|
+| **减幻觉 · 引用落地** | 无引用不下结论；检索空则拒答 | [citation-grounding](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/citation-grounding) |
+| **安全治理 · 内容护栏** | P0–P3 分级；输入/输出双侧检查（无真实词库/无密钥） | [content-safety-rails](https://github.com/annawzhang/pm-hr-skills/tree/main/skills/content-safety-rails) |
+
+更多招聘 / 触达 / VOC Playbook 见 [pm-hr-skills](https://github.com/annawzhang/pm-hr-skills) · [手册 §07](https://annawzhang.github.io/people-product-handbook/sections/07-skills.html)
+
+**私有仓（不对外开链）**：企业底稿与带抓取/部署密钥的数据包（`ssc-*` / `fpp-*` / payroll / policy-monitor 等）为 **Private**；面试只看公开 Demo 与上述 Skills。
 
 ## 💼 实习经历
 
