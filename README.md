@@ -5,7 +5,8 @@
 > **⚠️ 数据脱敏声明（请先读）**  
 > 本账号下所有公开仓库与 GitHub Pages **均为面试用复刻**：业务规则可演示，**数据全部虚构或已脱敏**。  
 > **不含**真实员工/候选人信息、门店明细、薪酬福利原文、内网 URL、手机号、同事实名、未公开密钥。  
-> 实习经历中的公司名与方向可写；**内部系统名、问询原文、经营明细以公开叙事下的脱敏/泛化表述为准**，不代表可对外提供原始数据或代码权限。
+> 涉及抓取结果、部署密钥、企业底稿的数据包仓库已设为 **Private**；面试官只需点公开 Demo / 手册，无需也不应申请私有仓权限。  
+> 实习经历中的公司名与方向可写；**内部系统名与指标以公开叙事下的脱敏/泛化表述为准**。
 
 **AI / 数据产品 · 企业工作台与智能体 · 销售策略与经营工具**  
 把复杂业务拆成可度量指标、可解释规则，和一线真正会用的产品
@@ -129,7 +130,7 @@
 | 方法开源 | [Handbook](https://github.com/annawzhang/people-product-handbook) · [Stats Kit](https://github.com/annawzhang/people-stats-kit) · [Skills](https://github.com/annawzhang/pm-hr-skills) | 手册 / 统计工具箱 / SOP |
 | 商赛方法 | [BizCase Strategy Lab](https://github.com/annawzhang/bizcase-strategy-lab) | TAM/竞品/UE/五力/监控（虚构案） |
 
-**其他**：[HR Policy Monitor](https://github.com/annawzhang/hr-policy-monitor)
+**私有仓（不对外开链）**：企业侧工作底稿与带真实抓取/部署配置的数据包（如 `ssc-*` / `fpp-*` / payroll / policy-monitor 等）已设为 **Private**，面试只讲公开复刻与架构页。
 
 ## 💼 实习经历
 
