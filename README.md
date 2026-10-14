@@ -5,6 +5,8 @@
 **AI / 数据产品 · 企业工作台与智能体 · 销售策略与经营工具**  
 把复杂业务拆成可度量指标、可解释规则，和一线真正会用的产品
 
+*希望统计能够借助 AI 杠杆，有更大的收获。*
+
 *AI & Data Product · 统计学本科 · 金融数学硕士 · 理想汽车 / 腾讯 / 字节跳动 / TCL*
 
 [![作品集](https://img.shields.io/badge/作品集-四段实习-0F766E?style=for-the-badge&logo=githubpages&logoColor=white)](https://annawzhang.github.io/portfolio/)
