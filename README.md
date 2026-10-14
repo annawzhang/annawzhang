@@ -37,19 +37,15 @@
 | **能做什么** | 工作台 0→1 · Agent / 知识闭环 · 可解释评分与 AB · 经营诊断与 VOC · 商赛方法工具化 |
 | **竞赛** | FlagOS 全球 Top 2 · 中国国际大学生创新大赛 **省金 / 国铜** · 全国商业精英挑战赛 **全国三等奖** |
 
-## 🧭 给面试官的导览（按兴趣 10 分钟）
+## 🗺 按方向浏览
 
-以下链接均可在线打开；**打开即见虚构/脱敏演示数据**，不会接触企业原始库。按您关心的方向选一条即可：
-
-| 若您关心 | 建议先看 | 可继续看 |
+| 方向 | 入口 | 相关 |
 |---|---|---|
 | **理想 · 销售/数据策略** | [Handbook · 理想](https://annawzhang.github.io/people-product-handbook/sections/co-lixiang.html) · [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) | [VOC Agent](https://annawzhang.github.io/voc-voice-agent/) · [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/) |
 | **腾讯 · SSC / 企业 AI** | [Handbook · 腾讯](https://annawzhang.github.io/people-product-handbook/sections/co-tencent.html) · [98008](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html) | [Console](https://annawzhang.github.io/enterprise-ai-console/) · [Gap](https://annawzhang.github.io/kb-gap-finder/) |
 | **字节 · 招聘数据产品** | [Handbook · 字节](https://annawzhang.github.io/people-product-handbook/sections/co-byte.html) · [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) | [Stats Kit](https://annawzhang.github.io/people-stats-kit/) · [作品集 · 字节](https://annawzhang.github.io/portfolio/byte-seed-overview.html) |
 | **TCL · HRIS** | [Handbook · TCL](https://annawzhang.github.io/people-product-handbook/sections/co-tcl.html) · [HRIS](https://annawzhang.github.io/hris-prototype/?demo) | [作品集 · TCL](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) |
-| **竞赛 / 方法附录** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) · [附录](https://annawzhang.github.io/people-product-handbook/sections/co-appendix.html) | [Skills](https://github.com/annawzhang/pm-hr-skills) · Hiring Agent（学习复刻） |
-
-通用 10 分钟：**[作品集](https://annawzhang.github.io/portfolio/) → [Handbook](https://annawzhang.github.io/people-product-handbook/) → 一个 Agent Demo 或 Talent Scoring → Retail KPI**。
+| **竞赛 / 方法附录** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) · [附录](https://annawzhang.github.io/people-product-handbook/sections/co-appendix.html) | [Skills](https://github.com/annawzhang/pm-hr-skills) |
 
 ## ✨ 精选项目
 
