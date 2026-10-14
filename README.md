@@ -31,7 +31,7 @@
 | 你面的方向 | 先打开 | 再深挖 |
 |---|---|---|
 | **人力 / HR 系统 / 工作台** | [Handbook](https://annawzhang.github.io/people-product-handbook/) · [HRIS](https://annawzhang.github.io/hris-prototype/?demo) | [Hiring Copilot](https://annawzhang.github.io/hiring-copilot/) · [Hiring Agent](https://annawzhang.github.io/hiring-agent/) |
-| **智能体 / 企业 AI** | [Enterprise AI Console](https://annawzhang.github.io/enterprise-ai-console/) · [Hiring Agent](https://annawzhang.github.io/hiring-agent/) | [VOC Voice Agent](https://annawzhang.github.io/voc-voice-agent/) · [KB Gap Finder](https://annawzhang.github.io/kb-gap-finder/) |
+| **智能体 / 企业 AI** | [Agent 能力层手册](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html)（按 **98008**：入口→主调度→Skill→知识→治理） | [VOC Agent](https://annawzhang.github.io/voc-voice-agent/) · [Hiring Agent](https://annawzhang.github.io/hiring-agent/) · [Console](https://annawzhang.github.io/enterprise-ai-console/) · [Gap Finder](https://annawzhang.github.io/kb-gap-finder/) |
 | **数据产品 / 可解释模型** | [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) · [Stats Kit](https://annawzhang.github.io/people-stats-kit/) | [VOC Insight](https://annawzhang.github.io/voc-insight-kit/) · 作品集字节页 |
 | **销售策略 / 经营** | [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) · 作品集理想页 | [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/) · VOC |
 | **商业策略 / 商赛** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) | Handbook §09 |
@@ -116,7 +116,7 @@
 | 字节 · 数据产品 | [Talent Scoring](https://github.com/annawzhang/explainable-talent-scoring) | 八维可解释评分 + 排他 AB |
 | 学习 / Agent | [Hiring Agent](https://github.com/annawzhang/hiring-agent) · [Hiring Copilot](https://github.com/annawzhang/hiring-copilot) | 结构化招聘 Agent + 看板 |
 | 理想 · 经营 | [Retail KPI](https://github.com/annawzhang/retail-kpi-cockpit) | 门店诊断驾驶舱 |
-| 理想 · VOC | [VOC Insight](https://github.com/annawzhang/voc-insight-kit) · [Voice Agent](https://github.com/annawzhang/voc-voice-agent) | 原声结论 · 无引用不回答 |
+| 理想 · VOC Agent | [VOC Insight](https://github.com/annawzhang/voc-insight-kit) · [Voice Agent](https://github.com/annawzhang/voc-voice-agent) | 按 98008 能力层：无引用不回答 · 禁止话术 · [架构](https://annawzhang.github.io/people-product-handbook/sections/10-agent-capability.html) |
 | 理想 · 流水线 | [Sales Ops Assistant](https://github.com/annawzhang/sales-ops-assistant) | 触达护栏：幂等、时间窗、授权、留痕 |
 | 方法开源 | [Handbook](https://github.com/annawzhang/people-product-handbook) · [Stats Kit](https://github.com/annawzhang/people-stats-kit) · [Skills](https://github.com/annawzhang/pm-hr-skills) | 手册 / 统计工具箱 / SOP |
 | 商赛方法 | [BizCase Strategy Lab](https://github.com/annawzhang/bizcase-strategy-lab) | TAM/竞品/UE/五力/监控（虚构案） |
