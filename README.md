@@ -20,6 +20,144 @@
 
 </div>
 
+## 💼 实习经历
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/portfolio/lixiang-overview.html"><img src="assets/covers/intern-lixiang.svg" alt="理想汽车 · AI 策略产品"/></a>
+
+**理想汽车 · AI 策略产品** · 2026.07 – 至今
+
+经营驾驶舱（kpi_engine 13 模块、680 单元宽表）· 飞书销售 SOP 智能体 · 试驾录音 VOC Agent，邀约 +1.8pp。
+
+[作品集](https://annawzhang.github.io/portfolio/lixiang-overview.html) · [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) · [VOC Agent](https://annawzhang.github.io/voc-voice-agent/) · [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/)
+</td>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/portfolio/tencent-ssc-overview.html"><img src="assets/covers/intern-tencent.svg" alt="腾讯 · 海外 HR 工作台"/></a>
+
+**腾讯 · AI 技术产品经理（海外薪酬福利）** · 2026.05 – 2026.07
+
+Console HR 工作台 0→1 · 12 个专业 HR Agent 知识闭环，未命中率 6% · 区域费用分摊 40min→3min。
+
+[作品集](https://annawzhang.github.io/portfolio/tencent-ssc-overview.html) · [Console](https://annawzhang.github.io/enterprise-ai-console/) · [KB Gap](https://annawzhang.github.io/kb-gap-finder/) · [Cost Allocation](https://github.com/annawzhang/cost-allocation-workbench)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/portfolio/byte-seed-overview.html"><img src="assets/covers/intern-byte.svg" alt="字节跳动 · Seed 招聘数据产品"/></a>
+
+**字节跳动 · Seed 招聘-数据产品** · 2026.02 – 2026.05
+
+多 Agent 采集/质检/评分编排 · 八维可解释评估（20,121 人）· 漏斗 AB，招聘效率 +40%。
+
+[作品集](https://annawzhang.github.io/portfolio/byte-seed-overview.html) · [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) · [Stats Kit](https://annawzhang.github.io/people-stats-kit/)
+</td>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/portfolio/tcl-hris-overview.html"><img src="assets/covers/intern-tcl.svg" alt="TCL · HRIS"/></a>
+
+**TCL · 人力产品实习生** · 2025.12 – 2026.02
+
+梳理入转调离流程，Axure 20+ 交互 Demo · OA 页面编排与接口联调 · 数据治理 + SQL 慢查询调优。
+
+[作品集](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) · [HRIS Demo](https://annawzhang.github.io/hris-prototype/?demo)
+</td>
+</tr>
+</table>
+
+## 🏆 比赛
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/FlagAI-Open/OpenSeek/pull/223"><img src="assets/covers/comp-flagos.svg" alt="FlagOS 全球 Top 2"/></a>
+
+**FlagOS · OpenSeek · 全球 Top 2**（队长）
+
+榜 **84.77** · Task 8 **166/166** · [PR #223](https://github.com/FlagAI-Open/OpenSeek/pull/223)
+</td>
+<td width="33%" valign="top">
+<img src="assets/covers/comp-waterna.svg" alt="中国国际大学生创新大赛 省金/国铜"/>
+
+**中国国际大学生创新大赛 · 省金 / 国铜**
+
+WaterNa 硅基光伏耦合；数据 pipeline 支撑商业化测算
+</td>
+<td width="33%" valign="top">
+<a href="https://annawzhang.github.io/bizcase-strategy-lab/"><img src="assets/covers/comp-bizcase.svg" alt="全国商业精英挑战赛 全国三等奖"/></a>
+
+**全国商业精英挑战赛 · 全国三等奖**
+
+宋锦品牌：PEST + 波特五力 + LDA/SEM · [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/)
+</td>
+</tr>
+</table>
+
+## ✨ 精选项目
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/portfolio/"><img src="assets/covers/proj-portfolio.svg" alt="面试作品集"/></a>
+
+**[面试作品集](https://github.com/annawzhang/portfolio)** · 四段实习叙事
+
+理想销售策略 · 腾讯企业 AI 工作台 · 字节数据产品 · TCL HRIS。背景 → 方案 → 架构 → 结果，数据脱敏。
+
+[在线浏览](https://annawzhang.github.io/portfolio/)
+</td>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/people-product-handbook/"><img src="assets/covers/proj-handbook.svg" alt="Handbook"/></a>
+
+**[People Product Handbook](https://github.com/annawzhang/people-product-handbook)** · 按四段实习归类
+
+导航对齐简历：**理想**（VOC/触达/经营）· **字节**（人才量化/AB）· **腾讯**（SSC/98008）· **TCL**（HRIS）；商赛/Skills/学习复刻进附录。
+
+[在线阅读](https://annawzhang.github.io/people-product-handbook/)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/enterprise-ai-console/"><img src="assets/covers/proj-console.svg" alt="Enterprise AI Console"/></a>
+
+**[Enterprise AI Console](https://github.com/annawzhang/enterprise-ai-console)** · 企业级 AI 工作台（腾讯向）
+
+权限分级知识库、机器人看板、系统自检、工具嵌入——工作台 0→1 的公开复刻。
+
+[在线演示](https://annawzhang.github.io/enterprise-ai-console/)
+</td>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/hiring-agent/"><img src="assets/covers/proj-hiring-agent.svg" alt="Hiring Agent"/></a>
+
+**[Hiring Agent](https://github.com/annawzhang/hiring-agent)** · 招聘运营智能体
+
+白名单调用评分卡引擎；违规推进会被规则拒绝。对应「Agent 只能调规则、不能黑盒瞎推」。
+
+[在线演示](https://annawzhang.github.io/hiring-agent/) · [Copilot 看板](https://annawzhang.github.io/hiring-copilot/)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/explainable-talent-scoring/"><img src="assets/covers/proj-talent.svg" alt="Talent Scoring"/></a>
+
+**[Explainable Talent Scoring](https://github.com/annawzhang/explainable-talent-scoring)** · 数据产品 / 可解释模型（字节向）
+
+八维加权、S+/S/A/B/C、NOT EXISTS 排他 AB、索引调优。
+
+[在线报告](https://annawzhang.github.io/explainable-talent-scoring/)
+</td>
+<td width="50%" valign="top">
+<a href="https://annawzhang.github.io/retail-kpi-cockpit/"><img src="assets/covers/proj-retail-kpi.svg" alt="Retail KPI"/></a>
+
+**[Retail KPI Cockpit](https://github.com/annawzhang/retail-kpi-cockpit)** · 销售策略 / 经营诊断（理想向）
+
+同层健康分、预警归因、责任分派——「今天先管谁」。
+
+[在线演示](https://annawzhang.github.io/retail-kpi-cockpit/) · [BizCase 商赛](https://annawzhang.github.io/bizcase-strategy-lab/)
+</td>
+</tr>
+</table>
+
 ## 🙋‍♀️ 关于我
 
 | | |
@@ -39,71 +177,6 @@
 | **字节 · 招聘数据产品** | [Handbook · 字节](https://annawzhang.github.io/people-product-handbook/sections/co-byte.html) · [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) | [Stats Kit](https://annawzhang.github.io/people-stats-kit/) · [作品集 · 字节](https://annawzhang.github.io/portfolio/byte-seed-overview.html) |
 | **TCL · HRIS** | [Handbook · TCL](https://annawzhang.github.io/people-product-handbook/sections/co-tcl.html) · [HRIS](https://annawzhang.github.io/hris-prototype/?demo) | [作品集 · TCL](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) |
 | **竞赛 / 方法附录** | [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/) · [附录](https://annawzhang.github.io/people-product-handbook/sections/co-appendix.html) | [Skills](https://github.com/annawzhang/pm-hr-skills) |
-
-## ✨ 精选项目
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/portfolio/"><img src="assets/index.png" alt="面试作品集"/></a>
-
-**[面试作品集](https://github.com/annawzhang/portfolio)** · 四段实习叙事
-
-理想销售策略 · 腾讯企业 AI 工作台 · 字节数据产品 · TCL HRIS。背景 → 方案 → 架构 → 结果，数据脱敏。
-
-[在线浏览](https://annawzhang.github.io/portfolio/)
-</td>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/people-product-handbook/"><img src="https://opengraph.githubassets.com/1/annawzhang/people-product-handbook" alt="Handbook"/></a>
-
-**[People Product Handbook](https://github.com/annawzhang/people-product-handbook)** · 按四段实习归类
-
-导航对齐简历：**理想**（VOC/触达/经营）· **字节**（人才量化/AB）· **腾讯**（SSC/98008）· **TCL**（HRIS）；商赛/Skills/学习复刻进附录。
-
-[在线阅读](https://annawzhang.github.io/people-product-handbook/)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/enterprise-ai-console/"><img src="https://opengraph.githubassets.com/1/annawzhang/enterprise-ai-console" alt="Enterprise AI Console"/></a>
-
-**[Enterprise AI Console](https://github.com/annawzhang/enterprise-ai-console)** · 企业级 AI 工作台（腾讯向）
-
-权限分级知识库、机器人看板、系统自检、工具嵌入——工作台 0→1 的公开复刻。
-
-[在线演示](https://annawzhang.github.io/enterprise-ai-console/)
-</td>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/hiring-agent/"><img src="https://opengraph.githubassets.com/1/annawzhang/hiring-agent" alt="Hiring Agent"/></a>
-
-**[Hiring Agent](https://github.com/annawzhang/hiring-agent)** · 招聘运营智能体
-
-白名单调用评分卡引擎；违规推进会被规则拒绝。对应「Agent 只能调规则、不能黑盒瞎推」。
-
-[在线演示](https://annawzhang.github.io/hiring-agent/) · [Copilot 看板](https://annawzhang.github.io/hiring-copilot/)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/explainable-talent-scoring/"><img src="https://opengraph.githubassets.com/1/annawzhang/explainable-talent-scoring" alt="Talent Scoring"/></a>
-
-**[Explainable Talent Scoring](https://github.com/annawzhang/explainable-talent-scoring)** · 数据产品 / 可解释模型（字节向）
-
-八维加权、S+/S/A/B/C、NOT EXISTS 排他 AB、索引调优。
-
-[在线报告](https://annawzhang.github.io/explainable-talent-scoring/)
-</td>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/retail-kpi-cockpit/"><img src="https://raw.githubusercontent.com/annawzhang/retail-kpi-cockpit/main/docs/screenshot-overview.png" alt="Retail KPI"/></a>
-
-**[Retail KPI Cockpit](https://github.com/annawzhang/retail-kpi-cockpit)** · 销售策略 / 经营诊断（理想向）
-
-同层健康分、预警归因、责任分派——「今天先管谁」。
-
-[在线演示](https://annawzhang.github.io/retail-kpi-cockpit/) · [BizCase 商赛](https://annawzhang.github.io/bizcase-strategy-lab/)
-</td>
-</tr>
-</table>
 
 ## 🧪 可运行的项目复刻
 
@@ -135,23 +208,6 @@
 
 分层地图：[手册 §12](https://annawzhang.github.io/people-product-handbook/sections/12-layer-build.html) · 仓库 [pm-hr-skills](https://github.com/annawzhang/pm-hr-skills)
 **私有仓（不对外开链）**：企业底稿与带抓取/部署密钥的数据包（`ssc-*` / `fpp-*` / payroll / policy-monitor 等）为 **Private**；面试只看公开 Demo 与上述 Skills。
-
-## 💼 实习经历
-
-| 时间 | 公司 · 方向 | 代表成果 |
-|---|---|---|
-| 2026.07 – 至今 | [**理想汽车**](https://annawzhang.github.io/portfolio/lixiang-overview.html) · **销售策略** | 门店经营驾驶舱、18 类流程销售 AI 助手、7,000+ 舆情洞察、50 家门店竞品商圈 |
-| 2026.05 – 2026.07 | [**腾讯**](https://annawzhang.github.io/portfolio/tencent-ssc-overview.html) · **企业级 AI 工作台** | 统一工作台 0→1、12 个专业 Agent 知识闭环、未命中率 6% |
-| 2026.02 – 2026.05 | [**字节跳动**](https://annawzhang.github.io/portfolio/byte-seed-overview.html) · **Seed AI 数据产品** | Agent 采集全链路、八维可解释评估（20,121 样本）、漏斗 AB，效率 +40% |
-| 2025.12 – 2026.02 | [**TCL**](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) · **企业系统 / HRIS** | 20+ 业务系统原型、OA 联调、SQL 调优 |
-
-## 🏆 比赛
-
-**FlagOS · OpenSeek · 全球 Top 2**（队长）— [PR #223](https://github.com/FlagAI-Open/OpenSeek/pull/223) · 榜 **84.77** · Task 8 **166/166**
-
-**全国商业精英挑战赛 · 全国三等奖（宋锦）** — PEST + 波特五力 + LDA/SEM；公开方法见 [BizCase Lab](https://annawzhang.github.io/bizcase-strategy-lab/)
-
-**中国国际大学生创新大赛 · WaterNa · 省金 / 国铜** — 硅基光伏耦合；数据 pipeline 支撑商业化测算
 
 ## 🧰 技能
 

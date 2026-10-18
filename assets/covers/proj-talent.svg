@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Source Han Sans SC',system-ui,sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111536"/><stop offset="1" stop-color="#3730a3"/></linearGradient>
+<linearGradient id="g2" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#818cf8" stop-opacity="0.55"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#818cf8" stop-opacity="0.55"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity="0.05"/></pattern>
+<filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity="0.45"/></filter>
+<marker id="arr" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#fff" fill-opacity="0.7"/></marker>
+</defs>
+<rect width="1280" height="640" fill="url(#bg)"/>
+<rect width="1280" height="640" fill="url(#grid)"/>
+<circle cx="1040" cy="120" r="320" fill="url(#glow)"/>
+<circle cx="120" cy="620" r="260" fill="url(#glow)" opacity="0.6"/>
+<rect x="80" y="96" rx="20" width="194" height="40" fill="#818cf8" fill-opacity="0.22" stroke="#818cf8" stroke-opacity="0.8"/>
+<text x="100" y="123" font-size="20" font-weight="700" fill="#fff" letter-spacing="1">Demo · 字节向</text>
+
+<text x="80" y="220" font-size="60" font-weight="800" fill="#fff" letter-spacing="1">Explainable</text><text x="80" y="290" font-size="60" font-weight="800" fill="#fff" letter-spacing="1">Talent Scoring</text>
+<text x="80" y="346" font-size="28" fill="#fff" fill-opacity="0.82">八维加权 · S+/S/A/B/C · 排他 AB</text>
+<rect x="80" y="376" width="72" height="5" rx="2.5" fill="#22d3ee"/>
+<rect x="80" y="500" rx="22" width="104" height="44" fill="#ffffff" fill-opacity="0.10" stroke="#22d3ee" stroke-opacity="0.55"/><text x="132" y="529" text-anchor="middle" font-size="22" font-weight="600" fill="#fff">可解释</text><rect x="198" y="500" rx="22" width="78" height="44" fill="#ffffff" fill-opacity="0.10" stroke="#22d3ee" stroke-opacity="0.55"/><text x="237" y="529" text-anchor="middle" font-size="22" font-weight="600" fill="#fff">分层</text><rect x="290" y="500" rx="22" width="122" height="44" fill="#ffffff" fill-opacity="0.10" stroke="#22d3ee" stroke-opacity="0.55"/><text x="351" y="529" text-anchor="middle" font-size="22" font-weight="600" fill="#fff">AB 实验</text>
+<g filter="url(#sh)"><rect x="740" y="110" width="480" height="420" rx="20" fill="#0b1020" fill-opacity="0.72" stroke="#fff" stroke-opacity="0.14"/><circle cx="766" cy="134" r="6" fill="#ff5f57"/><circle cx="786" cy="134" r="6" fill="#febc2e"/><circle cx="806" cy="134" r="6" fill="#28c840"/><rect x="740" y="156" width="480" height="1" fill="#fff" fill-opacity="0.10"/><text x="774" y="220" font-size="22" font-weight="800" fill="#fff">S+</text><rect x="830" y="200" width="350" height="28" rx="14" fill="#fff" fill-opacity="0.07"/><rect x="830" y="200" width="332" height="28" rx="14" fill="#818cf8" fill-opacity="1.0"/><text x="774" y="284" font-size="22" font-weight="800" fill="#fff">S</text><rect x="830" y="264" width="350" height="28" rx="14" fill="#fff" fill-opacity="0.07"/><rect x="830" y="264" width="280" height="28" rx="14" fill="#818cf8" fill-opacity="0.88"/><text x="774" y="348" font-size="22" font-weight="800" fill="#fff">A</text><rect x="830" y="328" width="350" height="28" rx="14" fill="#fff" fill-opacity="0.07"/><rect x="830" y="328" width="217" height="28" rx="14" fill="#22d3ee" fill-opacity="0.76"/><text x="774" y="412" font-size="22" font-weight="800" fill="#fff">B</text><rect x="830" y="392" width="350" height="28" rx="14" fill="#fff" fill-opacity="0.07"/><rect x="830" y="392" width="147" height="28" rx="14" fill="#22d3ee" fill-opacity="0.64"/><text x="774" y="476" font-size="22" font-weight="800" fill="#fff">C</text><rect x="830" y="456" width="350" height="28" rx="14" fill="#fff" fill-opacity="0.07"/><rect x="830" y="456" width="88" height="28" rx="14" fill="#22d3ee" fill-opacity="0.52"/></g>
+<text x="1240" y="612" text-anchor="end" font-size="16" fill="#fff" fill-opacity="0.45">github.com/annawzhang</text>
+</svg>
