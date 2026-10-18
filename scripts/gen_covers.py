@@ -256,15 +256,6 @@ def cover(name, tag, title, sub, chip_list, c1, c2, accent, accent2, motif, peri
 
 
 COVERS = [
-    # internships
-    ("intern-lixiang", "实习 · 理想汽车", "AI 策略产品", "经营驾驶舱 · 销售 SOP 智能体 · VOC Agent",
-     ["680 单元宽表", "5 类预警", "邀约 +1.8pp"], "#052e2b", "#0f766e", "#14b8a6", "#5eead4", "dashboard", "2026.07 – 至今"),
-    ("intern-tencent", "实习 · 腾讯", "海外 HR 工作台 0→1", "AI 技术产品经理 · 海外薪酬福利",
-     ["12 个 HR Agent", "未命中率 6%", "40min→3min"], "#071a3a", "#1d4ed8", "#3b82f6", "#93c5fd", "console", "2026.05 – 2026.07"),
-    ("intern-byte", "实习 · 字节跳动 Seed", "招聘数据产品", "多 Agent 编排 · 八维可解释评估 · 漏斗 AB",
-     ["20,121 人评分", "准确率 90.5%+", "招聘效率 +40%"], "#1e1046", "#4338ca", "#6366f1", "#c4b5fd", "network", "2026.02 – 2026.05"),
-    ("intern-tcl", "实习 · TCL", "HRIS Demo\n与 OA 对接", "人力产品 · 入转调离流程 · 数据治理",
-     ["20+ 交互 Demo", "HRIS/SAP/OA", "SQL 调优"], "#3b0a0a", "#b91c1c", "#ef4444", "#fca5a5", "flow", "2025.12 – 2026.02"),
     # competitions
     ("comp-flagos", "FlagOS 全球 AI 挑战赛", "全球 Top 2", "LongContext-ICL-Annotation · AI 产品负责人",
      ["Leaderboard 84.77", "Task8 满分", "PR #223"], "#2a1703", "#b45309", "#f59e0b", "#fde68a", "leaderboard", "Runner-up"),

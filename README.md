@@ -22,48 +22,12 @@
 
 ## 💼 实习经历
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/portfolio/lixiang-overview.html"><img src="assets/covers/intern-lixiang.svg" alt="理想汽车 · AI 策略产品"/></a>
-
-**理想汽车 · AI 策略产品** · 2026.07 – 至今
-
-经营驾驶舱（kpi_engine 13 模块、680 单元宽表）· 飞书销售 SOP 智能体 · 试驾录音 VOC Agent，邀约 +1.8pp。
-
-[作品集](https://annawzhang.github.io/portfolio/lixiang-overview.html) · [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) · [VOC Agent](https://annawzhang.github.io/voc-voice-agent/) · [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/)
-</td>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/portfolio/tencent-ssc-overview.html"><img src="assets/covers/intern-tencent.svg" alt="腾讯 · 海外 HR 工作台"/></a>
-
-**腾讯 · AI 技术产品经理（海外薪酬福利）** · 2026.05 – 2026.07
-
-Console HR 工作台 0→1 · 12 个专业 HR Agent 知识闭环，未命中率 6% · 区域费用分摊 40min→3min。
-
-[作品集](https://annawzhang.github.io/portfolio/tencent-ssc-overview.html) · [Console](https://annawzhang.github.io/enterprise-ai-console/) · [KB Gap](https://annawzhang.github.io/kb-gap-finder/) · [Cost Allocation](https://github.com/annawzhang/cost-allocation-workbench)
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/portfolio/byte-seed-overview.html"><img src="assets/covers/intern-byte.svg" alt="字节跳动 · Seed 招聘数据产品"/></a>
-
-**字节跳动 · Seed 招聘-数据产品** · 2026.02 – 2026.05
-
-多 Agent 采集/质检/评分编排 · 八维可解释评估（20,121 人）· 漏斗 AB，招聘效率 +40%。
-
-[作品集](https://annawzhang.github.io/portfolio/byte-seed-overview.html) · [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) · [Stats Kit](https://annawzhang.github.io/people-stats-kit/)
-</td>
-<td width="50%" valign="top">
-<a href="https://annawzhang.github.io/portfolio/tcl-hris-overview.html"><img src="assets/covers/intern-tcl.svg" alt="TCL · HRIS"/></a>
-
-**TCL · 人力产品实习生** · 2025.12 – 2026.02
-
-梳理入转调离流程，Axure 20+ 交互 Demo · OA 页面编排与接口联调 · 数据治理 + SQL 慢查询调优。
-
-[作品集](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) · [HRIS Demo](https://annawzhang.github.io/hris-prototype/?demo)
-</td>
-</tr>
-</table>
+| 时间 | 公司 · 岗位 | 代表成果 | 相关 |
+|---|---|---|---|
+| 2026.07 – 至今 | **理想汽车** · AI 策略产品 | 经营驾驶舱（kpi_engine 13 模块、680 单元宽表）· 飞书销售 SOP 智能体 · 试驾录音 VOC Agent，邀约 +1.8pp | [作品集](https://annawzhang.github.io/portfolio/lixiang-overview.html) · [Retail KPI](https://annawzhang.github.io/retail-kpi-cockpit/) · [VOC Agent](https://annawzhang.github.io/voc-voice-agent/) · [Sales Ops](https://annawzhang.github.io/sales-ops-assistant/) |
+| 2026.05 – 2026.07 | **腾讯** · AI 技术产品经理（海外薪酬福利） | Console HR 工作台 0→1 · 12 个专业 HR Agent 知识闭环，未命中率 6% · 区域费用分摊 40min→3min | [作品集](https://annawzhang.github.io/portfolio/tencent-ssc-overview.html) · [Console](https://annawzhang.github.io/enterprise-ai-console/) · [KB Gap](https://annawzhang.github.io/kb-gap-finder/) · [Cost Allocation](https://github.com/annawzhang/cost-allocation-workbench) |
+| 2026.02 – 2026.05 | **字节跳动** · Seed 招聘-数据产品 | 多 Agent 采集/质检/评分编排 · 八维可解释评估（20,121 人）· 漏斗 AB，招聘效率 +40% | [作品集](https://annawzhang.github.io/portfolio/byte-seed-overview.html) · [Talent Scoring](https://annawzhang.github.io/explainable-talent-scoring/) · [Stats Kit](https://annawzhang.github.io/people-stats-kit/) |
+| 2025.12 – 2026.02 | **TCL** · 人力产品实习生 | 入转调离流程梳理，Axure 20+ 交互 Demo · OA 页面编排与接口联调 · 数据治理 + SQL 慢查询调优 | [作品集](https://annawzhang.github.io/portfolio/tcl-hris-overview.html) · [HRIS Demo](https://annawzhang.github.io/hris-prototype/?demo) |
 
 ## 🏆 比赛
 
